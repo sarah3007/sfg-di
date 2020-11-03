@@ -1,0 +1,13 @@
+guru:
+  jms:
+    user: JMS Username
+    password: somepass
+    url: someurl
+
+# beow is file separator
+---
+spring:
+    profiles: de
+guru:
+  jms:
+    user: JMS Username *** GERMAN
